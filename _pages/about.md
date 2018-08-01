@@ -1,23 +1,34 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>UVa</strong> Computational Memory Lab
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The overarching goal of our lab is to develop a comprehensive theory of memory formation and retrieval that links our rich cognitive behavior to its underlying neural mechanisms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Psychologists have studied many simple behavioral tasks, such as free recall, for over 100 years. These tasks reveal the complex dynamics of human memory processes as we track what participants remember correctly and, often more interestingly, what they don’t. Our lab combines a number of approaches to uncover the neural correlates and develop computational models of these processes:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* We collect and perform multivariate analysis of neural data, including fMRI and EEG.
+* We run large-scale behavioral experiments.
+* We develop computational models to link neural activity and behavior and to guide our experimental work.
+* If you would like more information about the lab, our research, and members, please follow the links at the top of the page.
+
+<strong>Support</strong>
+
+Funding and support of this lab comes from the following organizations:
+
+* National Science Foundation
+* Air Force Research Lab
+* The Ohio State University Center for Cognitive and Brain Sciences
+
+<strong>Join the lab</strong>
+
+We are currently recruiting research assistants, graduate, and undergraduate students to join our lab. Please contact Dr. Per Sederberg via email by clicking the mail icon below if you are interested.
