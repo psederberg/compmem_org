@@ -1,8 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>UVa</strong> Computational Memory Lab
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>UVA</strong> Computational Memory Lab
 
 profile:
   align: center
