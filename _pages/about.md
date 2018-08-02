@@ -7,7 +7,7 @@ profile:
   align: center
   image: prof_pic.jpg
 
-news: true
+news: false
 social: true
 ---
 
