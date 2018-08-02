@@ -28,11 +28,17 @@ Funding and support of this lab comes from the following organizations:
 * Air Force Research Lab
 * The Ohio State University Center for Cognitive and Brain Sciences
 
-image: nsf.png
+pic1:
+  align: left
+  image: nsf.png
+  
+pic2:
+  align: center
+  image: afrl.png
 
-image: afrl.png
-
-image: osu.jpg
+pic3:
+  align: right
+  image: osu.jpg
 
 <strong>Join the lab</strong>
 
