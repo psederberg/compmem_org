@@ -10,7 +10,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: /compmem # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -29,7 +29,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
+blog_name: compmem
 blog_description: a simple whitespace theme for academics
 
 # Pagination
@@ -43,10 +43,10 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: compmem # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
