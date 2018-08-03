@@ -28,15 +28,6 @@ Funding and support of this lab comes from the following organizations:
 * Air Force Research Lab
 * The Ohio State University Center for Cognitive and Brain Sciences
 
-  align: left
-  image: nsf.png
-  
-  align: center
-  image: afrl.png
-  
-  align: right
-  image: osu.jpg
-
 <strong>Join the lab</strong>
 
 We are currently recruiting research assistants, graduate, and undergraduate students to join our lab. Please contact Dr. Per Sederberg via email by clicking the mail icon below if you are interested.
