@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /personnel/
-title: **Personnel**
+title: Personnel
+---
 Director
 ---
 * *Per B. Sederberg*
