@@ -35,7 +35,7 @@ Lab Alumni
 ---
 Postdoctoral Fellows
 
-* *Troy A. Smith* now Assistant Professor of Psychology at University of North Georgia
+* *Troy A. Smith,* now Assistant Professor of Psychology at University of North Georgia
 
 Graduate Students
 
