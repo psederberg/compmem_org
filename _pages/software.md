@@ -20,6 +20,7 @@ description: As one might guess given the name of the lab, we make use of quite 
 <a href="http://www.pymvpa.org" target="blank">PyMVPA</a>
 
 * A library for the multivariate analysis of data.
+
 <a href="https://github.com/compmem/desolver" target="blank">DeSolver</a>
 
 * A Python implementation of the differential evolution genetic algorithm for parameter fitting.
