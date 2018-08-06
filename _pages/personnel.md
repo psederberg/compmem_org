@@ -3,6 +3,7 @@ layout: page
 permalink: /personnel/
 title: Personnel
 ---
+
 Director
 ---
 * Per B. Sederberg
