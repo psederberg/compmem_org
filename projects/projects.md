@@ -1,3 +1,6 @@
+<!-- Blog -->
+        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">Blog</a>
+
 ---
 layout: page
 title: Projects
