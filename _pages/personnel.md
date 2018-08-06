@@ -1,9 +1,7 @@
 ---
 layout: page
 permalink: /personnel/
-title: personnel
-description: Get to know the members of the lab!
----
+title: Personnel
 Director
 ---
 * Per B. Sederberg
