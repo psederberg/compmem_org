@@ -17,7 +17,7 @@ Research Assistants
 ---
 * *Adam W. Fenton*
 * *Brandon G. Jacques*
-* *Michael J. Brockman, Part-time*
+* *Michael J. Brockman,* Part-time
 
 Undergraduate Research Assistants
 ---
@@ -44,8 +44,8 @@ Graduate Students
 * *Adam E. Hasinski,* now Data Scientist at Nielson
 * *Dylan M. Nielson,* now Fraud Analyst at Freddie Mac
 * *Adam F. Osth,* now Assistant Professor of Psychology at University of Melbourne, Australia
-* Vishnu Sreekumar
-* Christine Szostek,* now Assistant Professor of Psychology at Shorter University
+* *Vishnu Sreekumar*
+* *Christine Szostek,* now Assistant Professor of Psychology at Shorter University
 
 Research Assistants
 
