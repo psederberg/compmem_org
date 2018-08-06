@@ -1,4 +1,4 @@
-<!-- Blog -->
+<!-- Blog, belongs in between About and Pages in Header file -->
         <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">Blog</a>
 
 ---
