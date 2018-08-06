@@ -20,7 +20,11 @@ Psychologists have studied many simple behavioral tasks, such as free recall, fo
 * We develop computational models to link neural activity and behavior and to guide our experimental work.
 * If you would like more information about the lab, our research, and members, please follow the links at the top of the page.
 
-<a class="twitter-timeline" href="https://twitter.com/compmem?ref_src=twsrc%5Etfw">Tweets by compmem</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/compmem" data-widget-id="479780821432152065">Tweets by @compmem
+</a>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.ge
+tElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBe
+fore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 <strong>Support</strong>
 
