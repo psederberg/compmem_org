@@ -5,7 +5,7 @@ title: <strong>UVA</strong> Computational Memory Lab
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image: cmlab_logo.jpg
 
 news: false
 social: true
@@ -22,9 +22,10 @@ Psychologists have studied many simple behavioral tasks, such as free recall, fo
 
 <a class="twitter-timeline" href="https://twitter.com/compmem" data-widget-id="479780821432152065">Tweets by @compmem
 </a>
- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.ge
-tElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBe
-fore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+ <script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
 
 <strong>Support</strong>
 

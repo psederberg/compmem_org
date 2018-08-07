@@ -3,24 +3,20 @@ layout: page
 permalink: /personnel/
 title: Personnel
 ---
-Director
----
+
+### Director
 * Per B. Sederberg
 
-Graduate Students
----
+### Graduate Students
+* Brandon G. Jacques
 * Ryan Kirkpatrick
-* Brian Siefke
 * Emily R. Weichart
 
-Research Assistants
----
+### Research Assistants
 * Adam W. Fenton
-* Brandon G. Jacques
 * Michael J. Brockman, Part-time
 
-Undergraduate Research Assistants
----
+### Undergraduate Research Assistants
 * Barento Abdurehman
 * Laura Baitt
 * Gagan Dhaliwal
@@ -32,8 +28,7 @@ Undergraduate Research Assistants
 * Collins Ssendawula
 * Aini Zaidi
 
-Lab Alumni
----
+### Lab Alumni
 Postdoctoral Fellows
 
 * Troy A. Smith, now Assistant Professor of Psychology at University of North Georgia
@@ -44,6 +39,7 @@ Graduate Students
 * Adam E. Hasinski, now Data Scientist at Nielson
 * Dylan M. Nielson, now Fraud Analyst at Freddie Mac
 * Adam F. Osth, now Assistant Professor of Psychology at University of Melbourne, Australia
+* Brian Siefke
 * Vishnu Sreekumar
 * Christine Szostek, Assistant Professor of Psychology at Shorter University
 
